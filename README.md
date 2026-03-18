@@ -1,6 +1,6 @@
 # Optimización Multirrespuesta de un Proceso de Extracción Aromática mediante Metodología de Superficie de Respuesta (RSM)
 
-> **Trabajo de Fin de Grado** · Análisis estadístico experimental completo con Diseño Compuesto Central (CCD) y 9 variables de respuesta.
+>  Análisis estadístico experimental completo con Diseño Compuesto Central (CCD) y 9 variables de respuesta.
 
 ---
 
